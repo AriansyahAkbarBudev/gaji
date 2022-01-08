@@ -2,6 +2,13 @@
 
 Aplikasi Sederhana ini untuk membuat stack backend tanpa endpoint menggunakan livewire
 
+## Sesuai Dengan syarat
+* Validasi menggunakan Form Request Validation.
+* Tidak ada algoritma pada Controller. (Livewire menggunakan Component)
+* Transaksi basis data menggunakan Eloquent (MySQL/MariaDB).
+* Buat unit test
+ * Publikasikan aplikasi yang telah Anda selesaikan ke GitHub, sertakan juga README sebagai petunjuk saat kami mengujinya.
+
 ## Fitur
 * SPA Dengan Livewire
 * Auth Jetstream
